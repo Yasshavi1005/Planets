@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://secureservercdn.net/198.71.233.47/adf.363.myftpupload.com/wp-content/uploads/2017/02/light-blue-background-wallpaper-1.jpg?time=1602684400');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cove
+</style>
+</head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #ADFF2F;
+  padding: 30px;
+  text-align: center;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #FF1493;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #0dd2e7;
+  color: black;
+}
+
+#navbar a.active {
+  background-color:Deep Pink ;
+  color: white;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+</head>
+<body>
+<html>
+<head>
+<style>
+body {
+  background-image: url(https://www.entheosweb.com/images/backgrounds/blue/squares.jpg");
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>Welcome</h2>
+  <p>welcome to planets.</p>
+</div>
+
+<div id="navbar">
+  <a class="active" href="file:///C:/Users/HP/Desktop/html/planets%20home%20.html">Planets</a>
+  <a href="file:///C:/Users/HP/Desktop/html/planets%20about%20.html">
+| about planets |</a>
+<a href="file:///C:/Users/HP/Desktop/html/our%20solar%20system%20.html">
+| our solar system |</a>
+<a href="file:///C:/Users/HP/Desktop/html/lets%20learn%20.html">
+| lets learn |</a>
+</div>
+
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  font-size: 50px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa:hover {
+  color: green;
+}
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+</style>
+</head>   
+
+<body>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.example {
+  padding: 20px;
+  color: white;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
+}
+</style>
+</head>
+<body>
+
+
+<h1 class="example">My very educated mother just served us noodles.</h1>
+
+</body>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.example {
+  padding: 20px;
+  color: white;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .example {background: blue;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .example {background: orange;}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .example {background: pink;}
+}
+</style>
+</head>
+<body>
+
+
+<h1 class="example">Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune</h1>
+
+
+</style>
+</head>
+<body>
+<h2>Was this helpful??</h2>
+<i onclick="myFunction(this)" class="fa fa-thumbs-up"></i>
+
+<script>
+function myFunction(x) {
+  x.classList.toggle("fa-thumbs-down");
+}
+</script>
+
+</body>

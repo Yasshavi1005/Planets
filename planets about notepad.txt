@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://secureservercdn.net/198.71.233.47/adf.363.myftpupload.com/wp-content/uploads/2017/02/light-blue-background-wallpaper-1.jpg?time=1602684400');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cove
+</style>
+</head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #ADFF2F;
+  padding: 30px;
+  text-align: center;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #FF1493;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #DAA520;
+  color: black;
+}
+
+#navbar a.active {
+  background-color:Deep Pink ;
+  color: white;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+</head>
+<body>
+<html>
+<head>
+<style>
+body {
+  background-image: url(https://www.entheosweb.com/images/backgrounds/blue/squares.jpg");
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>Welcome</h2>
+  <p>welcome to planets.</p>
+</div>
+
+<div id="navbar">
+  <a href="file:///C:/Users/HP/Desktop/html/planets%20home%20.html">Planets</a>
+  <a href="file:///C:/Users/HP/Desktop/html/planets%20about%20.html">
+| about planets |</a>
+<a href="file:///C:/Users/HP/Desktop/html/our%20solar%20system%20.html">
+| our solar system |</a>
+<a href="file:///C:/Users/HP/Desktop/html/lets%20learn%20.html">
+| lets learn |</a>
+</div>
+</div>
+
+<div class="content">
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.accordion {
+  background-color: #7FFF00;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #FF7F50; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: #00FFFF;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
+<h1><center><mark>Name of planets and thier definitions</h1></center></mark>
+<button class="accordion">Mercury</button>
+<div class="panel">
+
+
+
+  <p>Mercury is the smallest and closest planet to the sun in the Solar System. It is named after the Greek god Hermes (Ερμής), translated into Latin as Mercurius (Mercury), god of commerce, messenger of the gods, mediator between gods and mortals.</p>
+</div>
+
+<button class="accordion">Venus</button>
+<div class="panel">
+  <p>A day on Venus is longer than a year.
+Venus is hotter than Mercury despite being further away from the Sun. 
+Unlike the other planets in our solar system, Venus spins clockwise on its axis. 
+Venus is the second brightest natural object in the night sky after the Moon.
+Venus has 90 times the atmospheric pressure of Earth.</p>
+</div>
+
+<button class="accordion">Earth</button>
+<div class="panel">
+  <p>Earth is the planet we live on. It is the third planet from the Sun. It is the only planet known to have life on it. The Earth formed around 4.5 billion years ago.Earth consists of land, air, water and life. The land contains mountains, valleys and flat areas.</p>
+</div>
+
+<button class="accordion">Mars</button>
+<div class="panel">
+  <p>Mars is a cold desert world. Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons, and weather. It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon. There are signs of ancient floods on Mars, but now water mostly exists in icy dirt and thin clouds.
+  Mars is known as the Red Planet. It is red because the soil looks like rusty iron.</p>
+</div>
+<button class="accordion">Jupiter</button>
+<div class="panel">
+  <p>Jupiter is the fourth brightest object in the solar system. 
+The ancient Babylonians were the first to record their sightings of Jupiter. 
+Jupiter has the shortest day of all the planets. 
+Jupiter orbits the Sun once every 11.8 Earth years. 
+Jupiter has unique cloud features.</p>
+</div>
+<button class="accordion">Saturn</button>
+<div class="panel">
+  <p>Like all of the planets, Saturn is named after a character in Roman mythology. Saturn is named after the god Saturnus, the god of agriculture and harvest. Saturn is equivalent to the ancient Greek god Kronos. They decided to make the outermost planet sacred to Kronos, and the Romans did the same.</p>
+</div>
+<button class="accordion">Uranus</button>
+<div class="panel">
+  <p>Uranus, in Greek mythology, the personification of heaven. According to Hesiod's Theogony, Gaea (Earth), emerging from primeval Chaos, produced Uranus, the Mountains, and the Sea.
+  There's no process inside Uranus, like volcanism on Earth, that would give life inside the planet a form of energy. Life on Uranus would have to be vastly different from anything we have here on Earth to be able to survive.</p>
+</div>
+<button class="accordion">Neptune</button>
+<div class="panel">
+  <p>Neptune, like the other gas giants in our solar system, doesn't have much of a solid surface to live on. But the planet's largest moon, Triton, could make an interesting place to set up a space colony. ... Though there are slight winds in Triton's thin atmosphere, you wouldn't feel any breeze while standing on the surface.</p>
+</div>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+<html> 
+<body> 
+<h1>now lets see a small poem to learn the names of planets<h1>
+<video width="400" controls>
+  <source src="file:///C:/Users/HP/Desktop/yasshavi.mp4" type="video/mp4">
+</video>
+</body> 
+</html>
+

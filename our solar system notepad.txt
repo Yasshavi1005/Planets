@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://secureservercdn.net/198.71.233.47/adf.363.myftpupload.com/wp-content/uploads/2017/02/light-blue-background-wallpaper-1.jpg?time=1602684400');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cove
+</style>
+</head>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #ADFF2F;
+  padding: 30px;
+  text-align: center;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #FF1493;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #1be7a0;
+  color: black;
+}
+
+#navbar a.active {
+  background-color:Deep Pink ;
+  color: white;
+}
+
+.content {
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+</style>
+</head>
+<body>
+<html>
+<head>
+<style>
+body {
+  background-image: url(https://www.entheosweb.com/images/backgrounds/blue/squares.jpg");
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h2>Welcome</h2>
+  <p>welcome to planets.</p>
+</div>
+
+<div id="navbar">
+  <a href="file:///C:/Users/HP/Desktop/html/planets%20home%20.html">Planets</a>
+  <a href="file:///C:/Users/HP/Desktop/html/planets%20about%20.html">
+| about planets |</a>
+<a href="file:///C:/Users/HP/Desktop/html/our%20solar%20system%20.html">
+| our solar system |</a>
+<a href="file:///C:/Users/HP/Desktop/html/lets%20learn%20.html">
+| lets learn |</a>
+</div>
+</div>
+
+<!DOCTYPE html>
+<html>
+<body>
+<center><mark><h1>Our solar system </center></mark></h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Planets2013.svg/1200px-Planets2013.svg.png" alt="Girl in a jacket" width="1000" height="500">
+
+<mark><h1>In all actually There were 9 planets but because pluto is considered as a dwarf planet we do not count it in all the planets </center></mark></h1>
